@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Replace with your banner path or keep this filename in your profile repo -->
-  <img height="" src="https://raw.githubusercontent.com/quincyhunter/quincyhunter/main/github-banner.png" alt="Quincy Hunter — Software Engineer" />
+  <img height="" src="https:/gitub.com/quincyhunter/portfolio/public/images.png" alt="Quincy Hunter — Software Engineer" />
 </div>
 
 ###
