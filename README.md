@@ -4,7 +4,7 @@
 
 <div align="center">
   <!-- Replace with your banner path or keep this filename in your profile repo -->
-  <img height="" src="https:/gitub.com/quincyhunter/portfolio/public/images.png" alt="Quincy Hunter — Software Engineer" />
+  <img height="" src="https:/gitub.com/quincyhunter/Q/pixelartbanner.png" alt="Quincy Hunter — Software Engineer" />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 
 ###
 
-🎓 B.S. in Software Engineering, UC Irvine ’25
+🎓 B.S. in Software Engineering, UC Irvine ’25. 
 🌐 Full-stack builder: React/Next.js on the front, Node/Express/TypeScript on the back, clean APIs end-to-end.  
 📊 Data & ML inclined: Python, NumPy/pandas/scikit-learn for analysis, features, and lightweight inference when useful.  
 🧪 Quality matters: tests, code reviews, and readable docs to keep teams moving fast without breaking things.  
