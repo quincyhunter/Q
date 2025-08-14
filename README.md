@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="center">Techs I Use</h2>
+<h2 align="center">Technologies I Use</h2>
 
 ###
 
